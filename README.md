@@ -3,9 +3,8 @@
 <h3 align="center">💻 Junior Fullstack Developer | Astana IT University Student</h3>
 
 <p align="center">
-🚀 Passionate about building efficient, scalable web apps using <b>TypeScript, React, and Go</b>.<br/>
+🚀 Passionate about building efficient, scalable web apps using <b>TypeScript, React(Next), and Go</b>.<br/>
 🎓 Studying Software Engineering at <b>Astana IT University</b>.<br/>
-🌱 Focused on mastering <b>Microservices, DevOps, and Cloud Technologies</b>.
 </p>
 
 ---
