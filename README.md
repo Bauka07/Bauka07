@@ -60,16 +60,16 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+  <a href="https://t.me/@bauka_0203/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/Bauka07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/BauyrzhanN/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/bauyrzhan-nurzhanov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
