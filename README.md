@@ -66,7 +66,7 @@
   <a href="https://leetcode.com/u/BauyrzhanN/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/bauyrzhan-nurzhanov/" target="_blank">
+  <a href="https://www.linkedin.com/in/bauyrzhan-nurzhanov-9802ba380/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
