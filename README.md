@@ -1,11 +1,11 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Bauyrzhan Nurzhanov</h1>
+<h1 align="center">👋 Hi, I'm Bauyrzhan (Bauka)</h1>
 <h3 align="center">💻 Junior Fullstack Developer | Astana IT University Student</h3>
 
 <p align="center">
 🚀 Passionate about building efficient, scalable web apps using <b>TypeScript, React, and Go</b>.<br/>
-🎯 Currently studying Software Engineering at <b>Astana IT University</b>.<br/>
-🌱 Focused on mastering <b>microservices, DevOps, and cloud technologies</b>.
+🎓 Studying Software Engineering at <b>Astana IT University</b>.<br/>
+🌱 Focused on mastering <b>Microservices, DevOps, and Cloud Technologies</b>.
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3066BE?style=for-the-badge&logo=zod&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white)
 
@@ -43,17 +43,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baukgii&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baukgii&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bauka07&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauka07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🧩 Fun Facts About Me
 
-- 🧑‍💻 I love working with clean code and modern design systems  
-- 🐧 Linux enthusiast and open-source contributor  
-- 🌍 Based in Kazakhstan — building projects that make an impact  
+- 🧑‍💻 I enjoy creating fullstack projects with modern technologies  
+- 🐧 Linux enthusiast and open-source learner  
+- 🌍 Based in Astana, Kazakhstan — passionate about tech innovation  
 
 ---
 
@@ -63,7 +63,7 @@
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/baukgii" target="_blank">
+  <a href="https://github.com/Bauka07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
@@ -77,7 +77,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baukgii&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Bauka07&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">✨ Designed with passion by <b>Bauyrzhan Nurzhanov</b> ✨</p>
