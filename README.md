@@ -3,9 +3,9 @@
 <h3 align="center">💻 Junior Fullstack Developer | TypeScript | React | Go</h3>
 
 <p align="center">
-🚀 Passionate about building fast, scalable and user-friendly web applications.<br/>
-🎓 Software Engineering student at <b>Astana IT University</b>.<br/>
-🌱 Currently improving my knowledge in <b>system design, clean architecture and microservices</b>.
+👨‍💻 I build fast, secure, and user-friendly web applications.<br/>
+🎓 Studying Software Engineering at <b>Astana IT University</b>.<br/>
+🌱 Learning <b>system design, advanced Go, and modern frontend frameworks</b>.
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Description | Link |
 |--------|------|-------------|------|
-| 🔥 **Social Media Platform** | Go, React, PostgreSQL, Docker | Fullstack app with authentication, posts, likes, comments & real-time updates | 🔗 https://github.com/MaqsattoTeam/SocialApp |
+| 🔥 **Social Media Platform** | Go, React, PostgreSQL, Docker, WebSocket | Fullstack app with secure auth (JWT, Google login, email verification, reCAPTCHA), posts with likes/comments/shares, real-time messaging via WebSocket, profile customization & password management | 🔗 https://github.com/MaqsattoTeam/SocialApp |
 
 ---
 
@@ -61,4 +61,4 @@
 
 <br/>
 
-<p align="center">✨ Built with passion by <b>Bauyrzhan Nurzhanov</b> ✨</p>
+<p align="center">✨ Built with passion by <b>Bauyrzhan</b> ✨</p>
