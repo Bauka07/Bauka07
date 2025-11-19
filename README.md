@@ -51,4 +51,3 @@
 
 <br/>
 
-<p align="center">✨ Built with passion by <b>Bauyrzhan</b> ✨</p>
