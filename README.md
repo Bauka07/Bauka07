@@ -35,14 +35,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bauka07&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
