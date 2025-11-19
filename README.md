@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Bauyrzhan (Bauka)</h1>
-<h3 align="center">💻 Junior Fullstack Developer | Astana IT University Student</h3>
+<h3 align="center">💻 Junior Fullstack Developer</h3>
 
 <p align="center">
 🚀 Passionate about building efficient, scalable web apps using <b>TypeScript, React(Next), and Go</b>.<br/>
