@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Bauyrzhan (Bauka)</h1>
+<h1 align="center">👋 Hi, I'm Bauyrzhan</h1>
 <h3 align="center">💻 Junior Fullstack Developer</h3>
 
 <p align="center">
@@ -44,7 +44,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bauka07&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauka07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
