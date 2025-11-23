@@ -29,7 +29,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Description | Link |
 |--------|------|-------------|------|
-| 🔥 **Social Media Platform** | Go, React, PostgreSQL, Docker, WebSocket | Fullstack app with secure auth (JWT, Google login, email verification, reCAPTCHA), posts with likes/comments/shares, real-time messaging via WebSocket, profile customization & password management | 🔗 http://maqsatto.tech/ |
+| 🔥 **Social Media Platform** | Go, React, PostgreSQL, Docker, WebSocket | Fullstack app with secure auth (JWT, Google login, email verification, reCAPTCHA), posts with likes/comments/shares, real-time messaging via WebSocket, profile customization & password management | 🔗 https://maqsatto.tech/ |
 
 ---
 
