@@ -1,28 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Bauyrzhan</h1>
-<h3 align="center">💻 Junior Fullstack Developer | TypeScript | React | Go</h3>
-
-<p align="center">
-👨‍💻 I build fast, secure, and user-friendly web applications.<br/>
-🎓 Studying Software Engineering at <b>Astana IT University</b>.<br/>
-🌱 Learning <b>system design, advanced Go, and modern frontend frameworks</b>.
-</p>
-
----
-
-## 🧠 Tech Stack
-
-### 🌐 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### ⚙️ Backend
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h3 align="center">💻 Junior Fullstack Developer | TypeScript | Reactjs(Nextjs) | Go</h3>
 
 ---
 
